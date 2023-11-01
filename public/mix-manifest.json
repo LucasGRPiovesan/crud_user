@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/main.js": "/js/main.js",
+    "/js/controllers/Controller.js": "/js/controllers/Controller.js",
+    "/js/controllers/UsersController.js": "/js/controllers/UsersController.js",
+    "/js/services/Service.js": "/js/services/Service.js",
+    "/js/services/UsersService.js": "/js/services/UsersService.js",
+    "/js/services/FormatHelper.js": "/js/services/FormatHelper.js",
+    "/js/services/ValidateHelper.js": "/js/services/ValidateHelper.js",
+    "/css/app.css": "/css/app.css"
+}
